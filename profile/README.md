@@ -14,8 +14,6 @@ Our packges are listed below:
 - butia_navigation_system
 - butia_launchfiles
 
-___
-
 ## Awards
 
 - Brazilian Robotics Competition
