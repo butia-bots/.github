@@ -2,7 +2,7 @@
 
 The Brazilian United Team for Intelligent Automation - ButiaBots was founded in 2018 by FBOT from Universidade Federal do Rio Grande (FURG) and Taura Bots from Universidade Federal de Santa Maria (UFSM).
 
-# Packges
+## Packges
 
 Our packges are listed below:
 
@@ -14,7 +14,7 @@ Our packges are listed below:
 - butia_navigation_system
 - butia_launchfiles
 
-# Awards
+## Awards
 
 - Brazilian Robotics Competition
   - 2018: 3rd Place
@@ -26,7 +26,7 @@ Our packges are listed below:
 - RoboCup
   - 2022: 3rd Place
   
-# How start
+## How start
 
 In your terminal, past the command below:
 
