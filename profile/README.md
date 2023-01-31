@@ -26,7 +26,7 @@ Our packges are listed below:
 - RoboCup
   - 2022: 3rd Place
   
-# How stard
+# How start
 
 In your terminal, past the command below:
 
