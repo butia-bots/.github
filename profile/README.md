@@ -1,4 +1,4 @@
-# ButiaBots Robotic Team
+# ButiaBots Robotics Team
 
 The Brazilian United Team for Intelligent Automation - ButiaBots was founded in 2018 by FBOT from Universidade Federal do Rio Grande (FURG) and Taura Bots from Universidade Federal de Santa Maria (UFSM).
 
@@ -6,14 +6,15 @@ The Brazilian United Team for Intelligent Automation - ButiaBots was founded in 
 
 Our packges are listed below:
 
+- [butia_quiz](https://github.com/butia-bots/butia_quiz)
+- [butia_speech](https://github.com/butia-bots/butia_speech)
+- [butia_dataset_generation_unity](https://github.com/butia-bots/butia_dataset_generation_unity)
 - [butia_behavior](https://github.com/butia-bots/butia_behavior)
 - [butia_vision](https://github.com/butia-bots/butia_vision)
-- [butia_speech](https://github.com/butia-bots/butia_speech)
 - [butia_world](https://github.com/butia-bots/butia_launchfiles)
 - [butia_moveit](https://github.com/butia-bots/butia_moveit)
 - [butia_navigation_system](https://github.com/butia-bots/butia_navigation_system)
 - [butia_launchfiles](https://github.com/butia-bots/butia_launchfiles)
-- [butia_quiz](https://github.com/butia-bots/butia_quiz)
 
 ## Awards
 
