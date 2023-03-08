@@ -52,5 +52,5 @@ Our packges are listed below:
 To download our main repositories, past the command below in your terminal:
 
 ```
-sh -c "$(curl -fsSL https://gist.githubusercontent.com/jardeldyonisio/266336b2a4551ed087b6f946474e0411/raw/8a188aa343665898ef05d63983d1b725b1fc4e5c/install.sh)"
+sh -c "$(curl -fsSL https://gist.githubusercontent.com/jardeldyonisio/266336b2a4551ed087b6f946474e0411/raw/install.sh)"
 ```
