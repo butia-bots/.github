@@ -48,9 +48,3 @@ Our packges are listed below:
 ### How start
 
 - [Check our wiki here](https://github.com/butia-bots/butia_learning/wiki)
-
-To download our main repositories, past the command below in your terminal:
-
-```
-sh -c "$(curl -fsSL https://gist.githubusercontent.com/jardeldyonisio/266336b2a4551ed087b6f946474e0411/raw/install.sh)"
-```
