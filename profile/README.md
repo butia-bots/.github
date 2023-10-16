@@ -1,6 +1,6 @@
-# ButiaBots Robotics Team
+# FBOT@Home Robotics Team
 
-The Brazilian United Team for Intelligent Automation - ButiaBots was founded in 2018 by FBOT from Universidade Federal do Rio Grande (FURG) and Taura Bots from Universidade Federal de Santa Maria (UFSM).
+The FBOT@Home was founded in 2018 by FBOT from Universidade Federal do Rio Grande (FURG).
 
 ### Research
 
@@ -41,9 +41,11 @@ Our packges are listed below:
   - 2020: 3rd Place
   - 2021: 2nd Place
   - 2022: 1st Place
+  - 2023: 1st Place
 
 - RoboCup
   - 2022: 3rd Place
+  - 2022: 9st Place
   
 ### How start
 
