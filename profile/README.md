@@ -18,7 +18,7 @@ The FBOT@Home was founded in 2018 by FBOT from Universidade Federal do Rio Grand
 - [Team Description Paper 2021](https://drive.google.com/file/d/1CQ8Uy9pggwJRivyQL-UhAJOjHTxTid-m/view?usp=share_link)
 - [Team Description Paper 2022 (RoboCup)](https://drive.google.com/file/d/1ZBCIJjakgFjuQsuMHK7J-i9LRD6Z6vyg/view?usp=share_link)
 - [Team Description Paper 2022](https://drive.google.com/file/d/1IFcNxrehfH0oAJZ1qMLu5pbDlJwZ6j3X/view?usp=share_link)
-- [Team Description Paper 2023](https://drive.google.com/file/d/1TitU7D3o-0VsoATWdgsOy5Dww5jQWaWs/view?usp=sharing)
+- [Team Description Paper 2024](https://drive.google.com/file/d/1TitU7D3o-0VsoATWdgsOy5Dww5jQWaWs/view?usp=sharing)
 
 ### Packages
 
@@ -46,7 +46,7 @@ Our packges are listed below:
 
 - RoboCup
   - 2022: 3rd Place
-  - 2022: 9st Place
+  - 2022: 9th Place
   
 ### How start
 
