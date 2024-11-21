@@ -43,6 +43,7 @@ Our packges are listed below:
   - 2021: 2nd Place
   - 2022: 1st Place
   - 2023: 1st Place
+  - 2024: 1st Place
 
 - RoboCup
   - 2022: 3rd Place
