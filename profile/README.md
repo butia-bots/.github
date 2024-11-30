@@ -47,8 +47,9 @@ Our packges are listed below:
 
 - RoboCup
   - 2022: 3rd Place
-  - 2022: 9th Place
+  - 2023: 9th Place
+  - 2024: 11th Place
   
-### How start
+### How to start
 
 - [Check our wiki here](https://github.com/butia-bots/butia_learning/wiki)
