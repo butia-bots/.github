@@ -7,18 +7,22 @@ The FBOT@Home was founded in 2018 by FBOT from Universidade Federal do Rio Grand
 - Open-source and open-hardware mobile base for service robotics;
 - Autonomous and teleoperated robot for engineering activities in offshore platforms;
 
-### Publications
-
-- [Jubileo: An Open-Source Robot and Framework for Research in Human-Robot Social Interaction](https://arxiv.org/abs/2209.13509);
-- [The Improvement of the Domestic Robot DoRIS.](https://even3.blob.core.windows.net/anais/384160.pdf)
+### Team Description Papers
 - [Team Description Paper 2019](https://drive.google.com/file/d/1fxt-tTaoY7zBt3c8iicAUb9ofUDoddLH/view?usp=share_link)
-- [The Improvement of the Domestic Robot DoRIS 2020](https://drive.google.com/file/d/1G-0Rcb5Mnor76NUb6_ri0i55t7GOYg_X/view?usp=share_link)
 - [Team Description Paper 2020](https://drive.google.com/file/d/1A1bfNjHBTUHsVDIC5u9b8q3g45SdkRY5/view?usp=share_link)
-- [The Improvement of the Domestic Robot DoRIS 2021](https://drive.google.com/file/d/1A1bfNjHBTUHsVDIC5u9b8q3g45SdkRY5/view?usp=share_link)
 - [Team Description Paper 2021](https://drive.google.com/file/d/1CQ8Uy9pggwJRivyQL-UhAJOjHTxTid-m/view?usp=share_link)
 - [Team Description Paper 2022 (RoboCup)](https://drive.google.com/file/d/1ZBCIJjakgFjuQsuMHK7J-i9LRD6Z6vyg/view?usp=share_link)
 - [Team Description Paper 2022](https://drive.google.com/file/d/1IFcNxrehfH0oAJZ1qMLu5pbDlJwZ6j3X/view?usp=share_link)
 - [Team Description Paper 2024](https://drive.google.com/file/d/1TitU7D3o-0VsoATWdgsOy5Dww5jQWaWs/view?usp=sharing)
+
+### Publications
+
+- [Jubileo: An Open-Source Robot and Framework for Research in Human-Robot Social Interaction](https://arxiv.org/abs/2209.13509);
+- [The Improvement of the Domestic Robot DoRIS.](https://even3.blob.core.windows.net/anais/384160.pdf)
+- [The Improvement of the Domestic Robot DoRIS 2020](https://drive.google.com/file/d/1G-0Rcb5Mnor76NUb6_ri0i55t7GOYg_X/view?usp=share_link)
+- [The Improvement of the Domestic Robot DoRIS 2021](https://drive.google.com/file/d/1A1bfNjHBTUHsVDIC5u9b8q3g45SdkRY5/view?usp=share_link)
+- [SHARK: Stable Hoverboard-driven Autonomous Robot Kit](https://www.even3.com.br/anais/v-brahur-vi-brasero/869310-shark--stable-hoverboard-driven-autonomous-robot-kit/)
+- [Teach and Repeat for Path Planning Using Bézier Curves](https://ieeexplore.ieee.org/document/10837801)
 
 ### Packages
 
